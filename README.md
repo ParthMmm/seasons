@@ -1,3 +1,5 @@
 ## Seasons 
 
-Covered lifecycles, states, props
+- Lifecycles
+- State
+- Props
